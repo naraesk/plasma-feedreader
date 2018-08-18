@@ -20,5 +20,5 @@ $ kquitapp5 plasmashell
 $ plasmashell
 ```
 
-For Arch Linux there is a package available via AUR: https://aur.archlinux.org/packages/plasma5-applets-systemd/
+For Arch Linux there is a package available via [AUR](https://aur.archlinux.org/packages/plasma5-applets-feedreader/)
 Feedreader must be installed!
