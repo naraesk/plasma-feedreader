@@ -34,9 +34,8 @@ int Process::getUnreadCount() {
     waitForFinished();
     QString result(readAll());
     return result.toInt();
-
 }
 
 void Process::run() {
-    start("feedreader");
+    startDetached("feedreader");
 }
